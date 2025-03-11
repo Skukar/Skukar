@@ -18,7 +18,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skukar&layout=compact&theme=dracula" />
 </p>
 
----
 
   
 
