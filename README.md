@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anhar Sandova</h1>
+<h1 align="center">Hi, I'm Adit Zandika</h1>
 <h3 align="center">Back End Developer | Distro Hopper 🐧</h3>
 
 
@@ -14,11 +14,9 @@
   <img src="https://img.shields.io/badge/Config_Master-FFD700?style=for-the-badge&logo=neovim&logoColor=black" alt="Config Master" />
 
 
-![snake gif](https://github.com/anharsaja/anharsaja/blob/output/github-contribution-grid-snake-dark.svg)
-</div>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anharsaja&layout=compact&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skukar&layout=compact&theme=dracula" />
 </p>
 
 ---
